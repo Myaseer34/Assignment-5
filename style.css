@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    margin: 30px;
+    background-color: lightgray; /* Set the background color of the page */
+  }
+  
+  img {
+    float: left;
+    margin: 0 20px 20px 0;
+    width: 300px;
+  }
+  
+  p {
+    margin-bottom: 2em;
+  }
+  
+  small {
+    clear: left;
+    display: block;
+  }
+  
+  h1 {
+    color: blue; /* Set the text color of the H1 element */
+  }
+  
+  p {
+    color: green; /* Set the text color of all paragraph elements */
+  }
+  
+  #b {
+    border-color: red;
+    border-style: solid; /* Make sure the border style is solid to see the color change */
+  }
+  
